@@ -1,0 +1,5 @@
+C:\Users\sethn\Documents\Algorithms\DNAAnalysis\Methylation Analysis\bin\Release\Methylation Analysis.exe.config
+C:\Users\sethn\Documents\Algorithms\DNAAnalysis\Methylation Analysis\bin\Release\Methylation Analysis.exe
+C:\Users\sethn\Documents\Algorithms\DNAAnalysis\Methylation Analysis\bin\Release\Methylation Analysis.pdb
+C:\Users\sethn\Documents\Algorithms\DNAAnalysis\Methylation Analysis\obj\Release\Methylation Analysis.exe
+C:\Users\sethn\Documents\Algorithms\DNAAnalysis\Methylation Analysis\obj\Release\Methylation Analysis.pdb

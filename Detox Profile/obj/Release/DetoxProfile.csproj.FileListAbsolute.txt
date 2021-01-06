@@ -1,0 +1,6 @@
+C:\Users\sethn\Documents\Algorithms\DNAAnalysis\Detox Profile\bin\Release\Detox Profile.exe.config
+C:\Users\sethn\Documents\Algorithms\DNAAnalysis\Detox Profile\bin\Release\Detox Profile.exe
+C:\Users\sethn\Documents\Algorithms\DNAAnalysis\Detox Profile\bin\Release\Detox Profile.pdb
+C:\Users\sethn\Documents\Algorithms\DNAAnalysis\Detox Profile\obj\Release\DetoxProfile.csprojAssemblyReference.cache
+C:\Users\sethn\Documents\Algorithms\DNAAnalysis\Detox Profile\obj\Release\Detox Profile.exe
+C:\Users\sethn\Documents\Algorithms\DNAAnalysis\Detox Profile\obj\Release\Detox Profile.pdb

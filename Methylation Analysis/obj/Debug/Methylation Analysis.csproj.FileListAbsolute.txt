@@ -1,0 +1,6 @@
+C:\Users\sethn\Documents\Algorithms\DNAAnalysis\Methylation Analysis\bin\Debug\Methylation Analysis.exe.config
+C:\Users\sethn\Documents\Algorithms\DNAAnalysis\Methylation Analysis\bin\Debug\Methylation Analysis.exe
+C:\Users\sethn\Documents\Algorithms\DNAAnalysis\Methylation Analysis\bin\Debug\Methylation Analysis.pdb
+C:\Users\sethn\Documents\Algorithms\DNAAnalysis\Methylation Analysis\obj\Debug\Methylation Analysis.csprojAssemblyReference.cache
+C:\Users\sethn\Documents\Algorithms\DNAAnalysis\Methylation Analysis\obj\Debug\Methylation Analysis.exe
+C:\Users\sethn\Documents\Algorithms\DNAAnalysis\Methylation Analysis\obj\Debug\Methylation Analysis.pdb
